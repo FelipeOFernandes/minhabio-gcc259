@@ -1,6 +1,10 @@
 # minhabio-gcc259
 
 # Informações pessoais
+
+## Foto
+![Foto pessoal](fotoPessoal.png)
+
 ## Nome
 Felipe de Oliveira Fernandes
 ## Idade
